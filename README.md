@@ -1,2 +1,2 @@
 # e-mail-2
-Responsywny e-mail
+Przykładowy szablon responsywnego e-maila z wykorzystaniem grafiki z canvy.
