@@ -8,6 +8,7 @@ The project demonstrates practical skills in building mobile‑friendly newslett
 - HTML (table-based layout for email compatibility)
 - Inline CSS
 - Responsive techniques for mobile email clients
+- Canva
 
 ## 📬 Live Preview
 The newsletter can be viewed here: [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://kasiakwiatek.github.io/e-mail-2/)
